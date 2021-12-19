@@ -40,7 +40,7 @@ contact_links:
     link: 'https://www.researchgate.net/profile/Elisabeth_Pelikan'
   - icon: linkedin
     icon_pack: fab
-    link: 'https://www.linkedin.com/in/elisabeth-rosa-pelikan-5a1ab9166/''
+    link: 'https://www.linkedin.com/in/elisabeth-rosa-pelikan-5a1ab9166/'
 # Site header
 main_menu:
   enable: true
