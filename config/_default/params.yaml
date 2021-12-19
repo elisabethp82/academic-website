@@ -30,8 +30,8 @@ contact_links:
     icon_pack: ai
     name: See my ORCID
     link: 'https://orcid.org/0000-0003-2317-9237'
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     name: Check out my Google Scholar profile
     link: 'https://scholar.google.com/citations?user=D4O2QsYAAAAJ&hl=en&authuser=1'
   - icon: researchgate
