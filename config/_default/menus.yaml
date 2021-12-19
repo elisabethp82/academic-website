@@ -4,24 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Demo
+  - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Experience
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Publications
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Talks & Media
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Rewiews
     url: '#featured'
     weight: 50
   - name: Courses
     url: courses/
     weight: 60
+  - name: Teaching
+    url: courses/
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80
