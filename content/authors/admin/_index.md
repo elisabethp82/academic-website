@@ -11,7 +11,7 @@ education:
   - course: BSc in Psychology
     institution: University of Vienna
     year: Oct 2014 - Jun 2016
-  - course: Diploma for Elementary Pedagogy
+  - course: Diploma in Elementary Pedagogy
     institution: College for elementary pedagogy (BAKIP 21)
     year: 
 email: "elisabeth@pelikan-it.com"
@@ -55,6 +55,6 @@ superuser: true
 title: Elisabeth R. Pelikan
 ---
 
-I am a PhD student in Educational Psychology at the University of Vienna. My research interests include self-regulation, motivation and well-being in academic contexts. I like challenges and learning new things - in my work but also in my spare time. I have a lot of different interests and hobbies (knitting, spinning, reading but also running and triathlon), some of which I only do for fun and relaxation, some of which I like to challenge myself and strive to get better in. I also love supporting others in achieving their goals, which is why I like teaching. This is why I am also a personal trainer and triathlon coach and teach yoga. 
+I am a PhD student in Educational Psychology at the University of Vienna. My research interests include self-regulation, motivation and well-being in academic contexts. I like challenges and learning new things - in my work but also in my spare time. I have a lot of different interests and hobbies (knitting, spinning, reading but also running and triathlon), some of which I only do for fun and relaxation, some of which I like to challenge myself and strive to get better in. I also love supporting others in achieving their goals, which is why I like teaching. This is why I am also training to be a personal trainer, triathlon coach and teach yoga. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
