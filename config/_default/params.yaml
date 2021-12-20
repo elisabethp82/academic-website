@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: mr robot
+theme: Mr Robot
 day_night: false
 font: 'rose'
 font_size: L
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: elisabeth@pelikan-it.com
+email: E-Mail me at elisabeth@pelikan-it.com
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -40,6 +40,7 @@ contact_links:
     link: 'https://www.researchgate.net/profile/Elisabeth_Pelikan'
   - icon: linkedin
     icon_pack: fab
+    name: Contact me on LinkedIn
     link: 'https://www.linkedin.com/in/elisabeth-rosa-pelikan-5a1ab9166/'
 # Site header
 main_menu:
