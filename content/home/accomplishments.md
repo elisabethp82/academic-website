@@ -23,29 +23,37 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/HM7VKHGTFEN2
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2017-04-13" 
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Getting and Cleaning Data
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/AQTAPWMQ2BK4
+  date_end: "2016-11-06"
+  date_start: "2016-11-06"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: R Programming
+  url: https://www.coursera.org/learn/r-programming
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/Z2Y5E9Y25CR9
+  date_end: "2016-10-09"
+  date_start: "2016-10-09"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'The Data Scientist’s Toolbox'
+  url: "https://www.coursera.org/learn/data-scientists-tools"
+- certificate_url:
+  date_end: "2021-12-20"
+  date_start: "2021-12-20"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  title: 'Introduction to R'
   url: ""
 
 design:
