@@ -5,34 +5,35 @@ author_notes:
 - 
 - 
 authors:
-- admin
-- Lüftenegger, Marko
 - Holzer, Julia
-- Korlat, Selma
-- Spiel, Christiane
+- Lüftenegger, Marko
+- Korlat, Selma  
+- Pelikan, Elisabeth  
+- Salmela-Aro, Katariina  
+- Spiel, Christiane 
 - Schober, Barbara
-date: "2021-03-04"
-doi: "10.1007/s11618-021-01002-x"
+date: "2021-03-15"
+doi: "10.1177/23328584211003164"
 featured: false
 image: 
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Zeitschrift für Erziehungswissenschaft*'
+publication: '*AERA Open*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-03-04"
+publishDate: "2021-03-15"
 slides: 
 summary:
 tags:
-- Intrinsic motivation
-- Perceived competence
-- Procrastination
-- Self-regulated learning
+- COVID-19
+- higher education 
+- self-determination theory 
+- well-being
 
-title: Learning during COVID-19 - The role of self-regulated learning, motivation, and procrastination for perceived competence
+title: Higher Education in Times of COVID-19 - University Students’ Basic Need Satisfaction, Self-Regulated Learning, and Well-BeingLearning during COVID-19 - The role of self-regulated learning, motivation, and procrastination for perceived competence
 url_code: ""
 url_dataset: ""
 url_pdf: ""
