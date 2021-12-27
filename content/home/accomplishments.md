@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Getting and Cleaning Data
+  title: 'Getting and Cleaning Data'
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/AQTAPWMQ2BK4
   date_end: "2016-11-06"
@@ -37,7 +37,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: R Programming
+  title: 'R Programming'
   url: https://www.coursera.org/learn/r-programming
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/Z2Y5E9Y25CR9
   date_end: "2016-10-09"
@@ -54,8 +54,23 @@ item:
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: 'Introduction to R'
-  url: ""
-
+  url: "https://app.datacamp.com/learn/courses/free-introduction-to-r"
+- certificate_url:
+  date_end: "2021-12-27"
+  date_start: "2021-12-27"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Intermediate R'
+  url: "https://campus.datacamp.com/courses/intermediate-r"
+- certificate_url:
+  date_end: "2021-12-27"
+  date_start: "2021-12-27"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Introduction to the Tidyverse'
+  url: "https://app.datacamp.com/learn/courses/introduction-to-the-tidyverse"
 design:
   columns: '2' 
 ---

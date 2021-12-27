@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: University of Vienna
-    year: Jan 2019 - Present
+    year: Jan 2019 - present
   - course: MSc in Psychology
     institution: University of Vienna
     year: Oct 2016 - Jan 2019
@@ -13,7 +13,7 @@ education:
     year: Oct 2014 - Jun 2016
   - course: Diploma in Elementary Pedagogy
     institution: College for elementary pedagogy (BAKIP 21)
-    year: 
+    year: Sept 2004 - June 2006
 email: "elisabeth@pelikan-it.com"
 highlight_name: false
 interests:
