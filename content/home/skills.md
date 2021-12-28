@@ -16,23 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Multilevel Modeling, Mixed methods, Focus Groups
+- description: Multilevel Modeling; Mixed methods; Focus Groups
   icon: random
   icon_pack: fas
-  name: Quantitative research
-- description: SPSS, R, MPlus
+  name: Quantitative and qualitative research
+- description: SPSS; R; MPlus
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: in projects, publications and volunteering
+- description: in projects and international research cooperations; ÖGPs early career researchers group
   icon: handshake
   icon_pack: fas
   name: Collaboration and Teamwork
-- description: Studierende zum Abschluss motivieren, PRO SRL Transfer, Lernen unter COVID-19 Bedingungen, ÖGPs Jungwissenschafter*innen
+- description: teaching; project related organization; international research cooperations; co-organization of the pre-conference day of the ÖGPs conference 2022; organizing social meetings for PhDs
   icon: folder-open
   icon_pack: fas
-  name: Project Organization
-  
+  name: Planning and Organization
+- description: invited talks on learning during COVID-19; teaching science communication and presentation skills
+  icon: quote-right
+  icon_pack: fas
+  name: Science communication
+- description: tutoring beginning students; science communication; moderation and presentation skills
+  icon: university
+  icon_pack: fas
+  name: Teaching
+
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"

@@ -54,6 +54,6 @@ superuser: true
 title: Elisabeth R. Pelikan
 ---
 
-I am a doctoral student in educational psychology at the University of Vienna. My research interests include self-regulation, motivation, and well-being in academic contexts. I love learning new things and challenging myself - this is evident in my work, but also in my free time. In my spare-time, I like testing my limits in running, swimming, and cycling. I also love helping others achieve their goals, which is why I enjoy teaching and am studying to become a personal trainer, triathlon coach and yoga instructor. 
+I am a PhD candidate in educational psychology at the University of Vienna. My research interests include self-regulation, motivation, and well-being in academic contexts. I love learning new things and challenging myself - this is evident in my work, but also in my free time. In my spare-time, I like testing my limits in running, swimming, and cycling. I also love helping others achieve their goals, which is why I enjoy teaching and am studying to become a personal trainer, triathlon coach and yoga instructor. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
