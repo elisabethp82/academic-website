@@ -1,5 +1,5 @@
 ---
-abstract: In the wake of COVID-19, university students have experienced fundamental changes of their learning and their lives as a whole. The present research identifies psychological characteristics associated with students’ well-being in this situation. We investigated relations of basic psychological need satisfaction (experienced competence, autonomy, and relatedness) with positive emotion and intrinsic learning motivation, considering self-regulated learning as a moderator. Self-reports were collected from 6,071 students in Austria (Study 1) and 1,653 students in Finland (Study 2). Structural equation modeling revealed competence as the strongest predictor for positive emotion. Intrinsic learning motivation was predicted by competence and autonomy in both countries and by relatedness in Finland. Moderation effects of self-regulated learning were inconsistent, but main effects on intrinsic learning motivation were identified. Surprisingly, relatedness exerted only a minor effect on positive emotion. The results inform strategies to promote students’ well-being through distance learning, mitigating the negative effects of the situation.
+abstract: "In the wake of COVID-19, university students have experienced fundamental changes of their learning and their lives as a whole. The present research identifies psychological characteristics associated with students’ well-being in this situation. We investigated relations of basic psychological need satisfaction (experienced competence, autonomy, and relatedness) with positive emotion and intrinsic learning motivation, considering self-regulated learning as a moderator. Self-reports were collected from 6,071 students in Austria (Study 1) and 1,653 students in Finland (Study 2). Structural equation modeling revealed competence as the strongest predictor for positive emotion. Intrinsic learning motivation was predicted by competence and autonomy in both countries and by relatedness in Finland. Moderation effects of self-regulated learning were inconsistent, but main effects on intrinsic learning motivation were identified. Surprisingly, relatedness exerted only a minor effect on positive emotion. The results inform strategies to promote students’ well-being through distance learning, mitigating the negative effects of the situation."
 
 author_notes:
 - 
@@ -33,7 +33,7 @@ tags:
 - self-determination theory 
 - well-being
 
-title: Higher Education in Times of COVID-19 - University Students’ Basic Need Satisfaction, Self-Regulated Learning, and Well-BeingLearning during COVID-19 - The role of self-regulated learning, motivation, and procrastination for perceived competence
+title: "Higher Education in Times of COVID-19 - University Students’ Basic Need Satisfaction, Self-Regulated Learning, and Well-BeingLearning during COVID-19: The role of self-regulated learning, motivation, and procrastination for perceived competence"
 url_code: ""
 url_dataset: ""
 url_pdf: ""

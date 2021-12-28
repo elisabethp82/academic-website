@@ -16,7 +16,7 @@ education:
     year: Sept 2004 - June 2006
 email: "elisabeth@pelikan-it.com"
 highlight_name: false
-interests:
+research interests:
 - Motivation
 - Self-regulation
 - Well-being
