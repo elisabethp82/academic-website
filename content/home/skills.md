@@ -16,15 +16,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description:
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description:
+- description: Multilevel Modeling, Mixed methods, Focus Groups
+  icon: random
+  icon_pack: fas
+  name: Quantitative research
+- description: SPSS, R, MPlus
   icon: chart-line
   icon_pack: fas
   name: Statistics
-
+- description: in projects, publications and volunteering
+  icon: handshake
+  icon_pack: fas
+  name: Collaboration and Teamwork
+- description: Studierende zum Abschluss motivieren, PRO SRL Transfer, Lernen unter COVID-19 Bedingungen, ÖGPs Jungwissenschafter*innen
+  icon: folder-open
+  icon_pack: fas
+  name: Project Organization
+  
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"
