@@ -7,8 +7,8 @@
 
 theme: Mr Robot
 day_night: false
-font: 'rose'
-font_size: L
+font: 'minimal'
+font_size: S
 
 # SEO
 

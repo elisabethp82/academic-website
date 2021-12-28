@@ -15,8 +15,9 @@ education:
     institution: College for elementary pedagogy (BAKIP 21)
     year: Sept 2004 - June 2006
 email: "elisabeth@pelikan-it.com"
-highlight_name: false
-research interests:
+highlight_name: true
+
+interests:
 - Motivation
 - Self-regulation
 - Well-being
@@ -25,7 +26,7 @@ research interests:
 organizations:
 - name: University of Vienna
   url: https://www.univie.ac.at/en/
-role: PhD in Psychology
+role: PhD candidate in Psychology
 social:
 - icon: envelope
   icon_pack: fas
