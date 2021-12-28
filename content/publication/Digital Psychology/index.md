@@ -14,7 +14,7 @@ authors:
 - Lüftenegger, Marko
 
 date: "2021-11-08"
-doi: "10.1371/journal.pone.0257346"
+doi: "10.24989/dp.v2i2.2018"
 featured: false
 image: 
   caption: ''
