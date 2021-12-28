@@ -32,7 +32,7 @@ tags:
 - Procrastination
 - Self-regulated learning
 
-title: "Learning during COVID-19: The role of self-regulated learning, motivation, and procrastination for perceived competence""
+title: "Learning during COVID-19: The role of self-regulated learning, motivation, and procrastination for perceived competence"
 url_code: ""
 url_dataset: ""
 url_pdf: ""
