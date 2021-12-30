@@ -19,11 +19,11 @@ feature:
 - description: Multilevel Modeling; Mixed methods; Focus Groups
   icon: random
   icon_pack: fas
-  name: Data analysis
+  name: Statistical analysis
 - description: SPSS; RStudio; MPlus, MAXQDA
   icon: chart-line
   icon_pack: fas
-  name: Statistical tools
+  name: Analysis tools
 - description: in projects and international research cooperations; ÖGPs early career researchers group
   icon: handshake
   icon_pack: fas

@@ -71,6 +71,14 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Introduction to the Tidyverse'
   url: "https://app.datacamp.com/learn/courses/introduction-to-the-tidyverse"
+- certificate_url:
+  date_end: "2021-12-30"
+  date_start: "2021-12-30"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Data manipulation with dplyr'
+  url: "https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr"
 design:
   columns: '2' 
 ---
