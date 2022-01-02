@@ -39,7 +39,7 @@ tags:
 title: "Students' basic needs and well-being during the COVID-19 pandemic: A two-country study of basic psychological need satisfaction, intrinsic learning motivation, positive emotion and the moderating role of self-regulated learning"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/ijop.12763"
 url_poster: ""
 url_project: ""
 url_slides: ""

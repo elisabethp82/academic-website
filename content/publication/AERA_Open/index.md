@@ -36,7 +36,7 @@ tags:
 title: "Higher Education in Times of COVID-19 - University Students’ Basic Need Satisfaction, Self-Regulated Learning, and Well-BeingLearning during COVID-19: The role of self-regulated learning, motivation, and procrastination for perceived competence"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://journals.sagepub.com/doi/pdf/10.1177/23328584211003164"
 url_poster: ""
 url_project: ""
 url_slides: ""

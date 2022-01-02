@@ -38,7 +38,7 @@ tags:
 title: "Gender Differences in Digital Learning During COVID-19: Competence Beliefs, Intrinsic Value, Learning Engagement, and Perceived Teacher Support"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.637776/pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

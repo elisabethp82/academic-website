@@ -35,7 +35,7 @@ tags:
 title: "Emergency Distance Learning in Austria during COVID-19: Selected Findings and Implications"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://www.researchgate.net/publication/356000508_Emergency_Distance_Learning_in_Austria_during_COVID-19_Selected_Findings_and_Implications"
 url_poster: ""
 url_project: ""
 url_slides: ""

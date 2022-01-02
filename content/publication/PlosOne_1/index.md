@@ -54,7 +54,7 @@ tags:
 title: "Adolescent Well-being and Learning in Times of COVID-19 – A Multi-country Study of Basic Psychological Need Satisfaction, Learning Behavior, and the Mediating Roles of Positive Emotion and Intrinsic Motivation."
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0251352&type=printable"
 url_poster: ""
 url_project: ""
 url_slides: ""

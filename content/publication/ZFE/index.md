@@ -35,7 +35,7 @@ tags:
 title: "Learning during COVID-19: The role of self-regulated learning, motivation, and procrastination for perceived competence"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://link.springer.com/content/pdf/10.1007/s11618-021-01002-x.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

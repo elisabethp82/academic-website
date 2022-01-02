@@ -76,10 +76,11 @@ tags:
 title: "Distance learning in higher education during COVID-19: The role of basic psychological needs and intrinsic motivation for persistence and procrastination - A multi-country study"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0257346&type=printable"
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+
 ---
