@@ -2,6 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Recent & Upcoming Talks
-view: 2
+title: Conferences, talks & media
+view: 0
+flip_alt_rows: true
 ---

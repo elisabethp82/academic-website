@@ -35,6 +35,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+  flip_alt_rows: true
 ---
 
 {{% callout note %}}

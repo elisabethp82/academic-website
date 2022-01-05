@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Talks & Media
+  - name: Conferences & Talks
     url: '#talks'
     weight: 60
   - name: Teaching
