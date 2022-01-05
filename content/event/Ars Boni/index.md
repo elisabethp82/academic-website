@@ -9,7 +9,7 @@ abstract: On June 24, 2021, my colleague Flora Fassl and I were guests on "Ars B
 #  street: 450 Serra Mall
 
 all_day: true
-authors: [Pelikan Elisabeth, Fassl Flora]
+authors: [Pelikan Elisabeth]
 date: "2021-06-24T09:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 event: Ars Boni Podcast
@@ -25,7 +25,7 @@ links:
   url: https://twitter.com/nikolausf?s=20
 - icon: youtube
   icon_pack: fab
-  name: Watch Ars Boni episode
+  name: Watch on YouTube
   url: https://www.youtube.com/watch?v=yDquGceUaeE&t=759s
 - icon: youtube
   icon_pack: fab
@@ -38,7 +38,7 @@ projects:
 #slides: example
 summary: I was honored to be interviewed by Nikolas Forgó for the Ars Boni podcast about learning under COVID-19 with my colleague Flora Fassl. 
 tags: [COVID-19, self-regulated learning, well-being, self-determination theory, Learning under COVID-19, podcast]
-title: Ars Boni Podcast
+title: Interview at the Ars Boni Podcast
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""

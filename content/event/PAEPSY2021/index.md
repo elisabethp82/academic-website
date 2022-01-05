@@ -9,7 +9,7 @@ abstract: "Fundamental core assumptions about the malleability of human traits a
 #  street: 450 Serra Mall
 
 all_day: true
-authors: [Pelikan, Elisabeth; Holzer, Julia; Schober, Barbara; Lüftenegger, Marko]
+authors: [Pelikan Elisabeth, Holzer Julia, Schober Barbara, Lüftenegger Marko]
 date: "2021-11-15T09:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 event: PAEPSY 2021
@@ -25,7 +25,7 @@ location: online
 #publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary: As part of a symposium on Implicit Theories I held a talk about the associations between Implicit Theories, academic self-concept, and the well-being of students.
-#tags: [well-being, implicit theories, self-concept]
+tags: [well-being, implicit theories, self-concept]
 title: Presentation on Implicit Theories at PAEPSY 2021
 #url_code: ""
 #url_pdf: ""
