@@ -103,31 +103,21 @@ item:
   date_end: "2019-04-09"
   date_start: "2019-04-08"
   description: ""
-  icon: "UniWien"
-  icon_pack: "custom"
+  icon: UniWien
+  icon_pack: custom
   organization: University of Vienna
   organization_url: https://www.univie.ac.at
   title: 'Introduction to R'
   url: ""
 - certificate_url:
-  date_end: "2019-06-25"
-  date_start: "2019-05-21"
+  date_end: "2021-06-25"
+  date_start: "2021-05-21"
   description: ""
   icon: "UniWien"
   icon_pack: "custom"
   organization: University of Vienna
   organization_url: https://www.univie.ac.at
-  title: 'COIL (Collaborative Online International Learning) Session 5/5 "Embedding and supporting COIL in the institution"'
-  url: ""
-- certificate_url:
-  date_end: "2019-06-05"
-  date_start: "2019-05-04"
-  description: ""
-  icon: "UniWien"
-  icon_pack: "custom"
-  organization: University of Vienna
-  organization_url: https://www.univie.ac.at
-  title: 'R for advanced users'
+  title: "COIL (Collaborative Online International Learning)"
   url: ""
 - certificate_url:
   date_end: "2019-06-05"
@@ -141,7 +131,7 @@ item:
   url: ""
 - certificate_url:
   date_end: "2020-09-20"
-  date_start: "2019-09-07"
+  date_start: "2020-09-07"
   description: ""
   icon: "UniWien"
   icon_pack: "custom"
@@ -160,8 +150,8 @@ item:
   title: 'Latent Variable Modeling in Mplus'
   url: ""
 - certificate_url:
-  date_end: "2021-11-17"
-  date_start: "2020-11-16"
+  date_end: "2021-09-17"
+  date_start: "2021-09-16"
   description: ""
   icon: "UniWien"
   icon_pack: "custom"
@@ -200,7 +190,7 @@ item:
   title: 'Publication Strategies in the Academic "Publish or Perish" Competition'
   url: ""
 - certificate_url:
-  date_end: "2019-01-28"
+  date_end: "2020-01-28"
   date_start: "2019-10-15"
   description: ""
   icon: "UniWien"
@@ -210,18 +200,8 @@ item:
   title: 'Multilevel Modeling for Experimental and Longitudinal Data in R'
   url: ""
 - certificate_url:
-  date_end: "2020-01-26"
-  date_start: "2020-10-13"
-  description: ""
-  icon: "UniWien"
-  icon_pack: "custom"
-  organization: University of Vienna
-  organization_url: https://www.univie.ac.at
-  title: 'Scientific Writing: Completing Articles'
-  url: ""
-- certificate_url:
-  date_end: "2021-06-30"
-  date_start: "2021-03-10"
+  date_end: "2020-06-30"
+  date_start: "2020-03-10"
   description: ""
   icon: "UniWien"
   icon_pack: "custom"
