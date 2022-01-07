@@ -210,8 +210,8 @@ item:
   title: 'Scientific Writing: Completing Articles'
   url: ""
 - certificate_url:
-  date_end: "2019-10-10"
-  date_start: "2020-01-30"
+  date_end: "2019-01-30"
+  date_start: "2020-10-10"
   description: ""
   icon: "UniWien"
   icon_pack: "custom"
