@@ -31,9 +31,9 @@ slides:
 summary:
 tags:
 - COVID-19
-- Selbstbestimmungstheorie
-- Procrastination
+- Self-determination theory
 - Self-regulated learning
+- Higher education
 
 title: "Lernen unter COVID-19 Bedingungen: Zur Situation der Studierenden in Österreich [Learning under COVID-19 conditions: On the situation of students in Austria]"
 url_code: ""
