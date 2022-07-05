@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: Mr Robot
-day_night: true
+theme_night: Mr Robot
+day_night: false
 font: 'minimal'
 font_size: M
 
@@ -48,7 +48,7 @@ main_menu:
   align: r
   show_logo: false
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
