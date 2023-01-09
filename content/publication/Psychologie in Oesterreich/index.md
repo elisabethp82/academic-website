@@ -24,7 +24,7 @@ publication: '*Psychologie in Österreich*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-01-09"
+publishDate: "2022-09-01"
 slides: 
 summary:
 tags:
