@@ -71,7 +71,7 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Introduction to the Tidyverse'
   url: "https://app.datacamp.com/learn/courses/introduction-to-the-tidyverse"
-- certificate_url:
+- certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/0a2f9505572d700b99e2439c67106a044e1a917a"
   date_end: "2021-12-30"
   date_start: "2021-12-30"
   description: ""
@@ -219,14 +219,30 @@ item:
   organization_url: https://www.univie.ac.at
   title: 'Doing open science'
   url: ""
-- certificate_url:
+- certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/9fce21ddfa91525f0ddebce97992603e7aef38b4"
   date_end: "2023-01-05"
   date_start: "2023-01-05"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: 'Introduction to Statistics in R'
-  url: "https://www.datacamp.com/statement-of-accomplishment/course/9fce21ddfa91525f0ddebce97992603e7aef38b4"
+  url: "https://app.datacamp.com/learn/courses/introduction-to-statistics-in-r"
+- certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/b931be42909bbb0d8d43efa8f68c6091cc69bc3a"
+  date_end: "2022-12-29"
+  date_start: "2022-12-29"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Introduction to Data Visualization with ggplot2'
+  url: "https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-ggplot2"
+- certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/09579642f4fc11ab63b4e067f2f8e8c1d8b5511d"
+  date_end: "2022-04-19"
+  date_start: "2022-04-19"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Joining Data with dply'
+  url: "https://app.datacamp.com/learn/courses/joining-data-with-dplyr"
 design:
   columns: '2' 
 ---
