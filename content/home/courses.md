@@ -219,6 +219,14 @@ item:
   organization_url: https://www.univie.ac.at
   title: 'Doing open science'
   url: ""
+- certificate_url:
+  date_end: "2023-01-05"
+  date_start: "2023-01-05"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Introduction to Statistics in R'
+  url: "https://www.datacamp.com/statement-of-accomplishment/course/9fce21ddfa91525f0ddebce97992603e7aef38b4"
 design:
   columns: '2' 
 ---
