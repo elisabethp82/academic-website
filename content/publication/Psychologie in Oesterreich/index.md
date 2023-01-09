@@ -5,7 +5,6 @@ author_notes:
 - 
 - 
 authors:
-Elisabeth R. Pelikan, Monika Finsterwald, Markus Dresel, Raven Rinas, Barbara Schober & Marko Lüftenegger
 - Pelikan, Elisabeth R.
 - Finsterwald, Monika
 - Dresel, Markus
