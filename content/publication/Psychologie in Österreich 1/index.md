@@ -10,14 +10,13 @@ authors:
 Elisabeth R. Pelikan, Monika Finsterwald, Markus Dresel, Raven Rinas,
 Barbara Schober & Marko Lüftenegger
 
-
-
 - Pelikan, Elisabeth R.
 - Finsterwald, Monika
 - Dresel, Markus
 - Rinas, Raven
 - Schober, Barbara
 - Lüftenegger, Marko
+
 date: "2022-09-01"
 doi: 
 featured: false
