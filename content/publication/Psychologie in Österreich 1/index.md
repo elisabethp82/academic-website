@@ -1,6 +1,6 @@
 ---
-abstract: "Self-regulated learning refers to consciously controlling one’s own learning process in order to achieve a specific, previously selected goal. Especially the subarea of metacognition
-is considered an important prerequisite for learning success. The foundations for the development of competencies for selfregulated learning should already be laid in school and, in
+abstract: "Self-regulated learning refers to consciously controlling one’s own learning process in order to achieve a specific, previously selected goal. Especially the subarea of meta-cognition
+is considered an important prerequisite for learning success. The foundations for the development of competencies for self-regulated learning should already be laid in school and, in
 the sense of lifelong learning, be further differentiated in continuing education and at universities. This paper presents a train-the-trainer program in which university teachers acquire competencies that enable them to systematically implement the promotion of self-regulated learning in their teaching. The materials described can also be used in student advising and in the design of continuing education measures in adult education."
 
 author_notes:
@@ -26,7 +26,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Psychologie in Österreich [Psychology in Austria]*'
+publication: '*Psychologie in Österreich [Psychology in Austria]*'
 publication_short: ""
 publication_types:
 - "2"
