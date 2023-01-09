@@ -55,7 +55,7 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Introduction to R'
   url: "https://app.datacamp.com/learn/courses/free-introduction-to-r"
-- certificate_url:
+- certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/900661f8970b0ed4d50fd92e56ad9ca9fdd6cfa1"
   date_end: "2021-12-27"
   date_start: "2021-12-27"
   description: ""
@@ -63,7 +63,7 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Intermediate R'
   url: "https://campus.datacamp.com/courses/intermediate-r"
-- certificate_url:
+- certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/43f1909da89d0b9c30d43bc666f9ed8b6deb5591"
   date_end: "2021-12-27"
   date_start: "2021-12-27"
   description: ""
@@ -99,7 +99,7 @@ item:
   organization_url: https://www.univie.ac.at
   title: 'The Master Seminar: Supervising during the Semester'
   url: ""
-- certificate_url:
+- certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/2ee6c104f8e40fe95ed4bae2e6c815f05876813c"
   date_end: "2019-04-09"
   date_start: "2019-04-08"
   description: ""
