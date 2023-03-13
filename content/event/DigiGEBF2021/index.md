@@ -26,7 +26,7 @@ links:
   url: https://twitter.com/GEBF__eV?s=20
 location: online
 projects:
-- COVID-19
+- Learning under COVID-19 conditions
 #publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary:  How do gender and age influence students' ability to cope with the sudden shift to digital learning? Do boys have an advantage because - as is usually assumed - they have a greater affinity for technology?

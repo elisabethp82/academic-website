@@ -33,7 +33,7 @@ links:
   url: https://www.youtube.com/watch?v=QDkEF9eUoTE&list=PLNsQQZ-Ar_sZIJovZ_HoEfwPZycm6Ehpw&index=23
 location: online
 projects:
-- COVID-19
+- Learning under COVID-19 conditions
 #publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary: I was honored to be interviewed by Nikolas Forgó for the Ars Boni podcast about learning under COVID-19 with my colleague Flora Fassl. 

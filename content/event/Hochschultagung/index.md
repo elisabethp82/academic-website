@@ -25,7 +25,7 @@ links:
   url: https://www.youtube.com/watch?v=BP68iNAFlfo
 location: online
 projects:
-  - COVID-19
+  - Learning under COVID-19 conditions
 #publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary: "Can digital learning be a solution to enable international exchange and education in a sustainable way? At the Higher Education Conference 2021 of Austria’s Agency for Education and Internationalisation (OeaD) I discussed challenges and opportunities of digital learning alongside Günther Berger from the Salzburg University of Applied Sciences."

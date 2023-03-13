@@ -21,7 +21,7 @@ image:
 #links:
 location: online
 projects:
-- COVID-19
+- Learning under COVID-19 conditions
 #publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary: On the 21st of May I was invited to talk at the 26th meeting of the Monitoring Board for Children’s Rights (Austrian Federal Ministry for Family and Youth) about the challenges and chances of distance learning during COVID-19 and how it affected students learning and well-being. 
