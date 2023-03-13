@@ -241,8 +241,68 @@ item:
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Joining Data with dply'
+  title: 'Joining Data with dplyr'
   url: "https://app.datacamp.com/learn/courses/joining-data-with-dplyr"
+design:
+  columns: '2' 
+  - certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/da1c63561c4420b9f3510e989ce64b34eb35ec54"
+  date_end: "2023-01-12"
+  date_start: "2023-01-12"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Intermediate Data Visualization with ggplot2'
+  url: 
+design:
+  columns: '2' 
+  - certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/a0e1a6bba360691294c5cca28f353e2ba4c13a8a"
+  date_end: "2023-01-17"
+  date_start: "2023-01-17"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Reporting with R Markdown'
+  url: 
+design:
+  columns: '2' 
+    - certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/abe1588d41c65c320d8bb5312220ec253a357f7b"
+  date_end: "2023-01-25"
+  date_start: "2023-01-25"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Data Communication Concepts'
+  url: 
+design:
+  columns: '2' 
+  - certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/2ca00028736f35c54ece2a6d52b90f295a582e41"
+  date_end: "2023-01-27"
+  date_start: "2023-01-27"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'https://www.datacamp.com/statement-of-accomplishment/course/2ca00028736f35c54ece2a6d52b90f295a582e41'
+  url: 
+design:
+  columns: '2' 
+    - certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/099f5f46b294cd05bc15c73d8c5d52b49f176850"
+  date_end: "2023-02-10"
+  date_start: "2023-02-10"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Intermediate Importing Data in R'
+  url: 
+design:
+  columns: '2' 
+    - certificate_url: "https://www.datacamp.com/statement-of-accomplishment/course/a78cca9b9b7e672073cb43b28c0f7f340bac1eca"
+  date_end: "2023-02-22"
+  date_start: "2023-02-22"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Cleaning Data in R'
+  url: 
 design:
   columns: '2' 
 ---
